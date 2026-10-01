@@ -1,0 +1,13 @@
+OLD SETUP CLEANUP
+
+On the server laptop:
+1. Stop the old RemoteDesk server window with Ctrl+C.
+2. Do NOT delete your normal Windows/Python installation.
+3. Rename the old RemoteDesk folder to RemoteDesk-OLD.
+4. Use only this new RemoteDesk-FINAL-CLEAN folder.
+5. The new server stores device records in config/devices.json.
+
+On client laptops:
+- Remove any old RemoteDesk development folder.
+- Do not run the old START_CLIENT.bat.
+- Install only the new RemoteDesk-Setup.exe when built.

@@ -1,0 +1,7 @@
+websockets>=15,<16
+mss>=10,<11
+Pillow>=12,<13
+pyautogui>=0.9,<1
+pyperclip>=1,<2
+bcrypt>=4,<5
+cryptography>=46,<47
