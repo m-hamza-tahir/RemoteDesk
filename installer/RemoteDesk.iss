@@ -1,6 +1,6 @@
 [Setup]
 AppName=RemoteDesk
-AppVersion=1.0.0
+AppVersion=1.0.2
 DefaultDirName={autopf}\RemoteDesk
 DefaultGroupName=RemoteDesk
 OutputDir=output
